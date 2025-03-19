@@ -2,27 +2,24 @@
 
 **Descrição:**
 
-Este projeto foi realizado em conjunto com o curso jornada full stack, criamos uma versão do spotify 
+Este projeto é uma versão do Spotify desenvolvida durante o curso **Jornada Full Stack**. O objetivo foi aplicar conhecimentos em desenvolvimentos web para criar uma interface funcional e responsiva, permitido e reprodução de músicas
  
 **Tecnologias:**
 
-* **Java:** Linguagem de programação principal.
-* 
+* **JavaScript:** Linguagem de programação principal.
+* **HTML:** Estrutura do projeto.
+* **CSS:** Estilizção e responsividade.
+* **Node.js:** Backend e gerenciamento de servidores.
 
 **Funcionalidades:**
 
-* **Busca por nomes de arquivos:** Verifica se o nome do arquivo corresponde a uma lista predefinida de nomes suspeitos.
-* **Interface gráfica:** Exibe os resultados da varredura em uma tabela.
+* Reprodução de musicas. 
+* Interface responsiva para dispositivos móveis.
+* Interface dos perfils dos cantores
+
 
 **Limitações:**
 
-* **Detecção básica:** Faz uma busca rápida por arquivos suspeitos em um diretório específico.
-* **Diretório fixo:** A varredura é realizada em um diretório predefinido, limitando a flexibilidade do software.
-
-**O que ainda falta?**
-
-* **Detecção real de vírus:** No momento, o antivírus apenas verifica os nomes dos arquivos. Precisamos implementar técnicas mais avançadas para detectar ameaças reais.
-* **Interface mais amigável:** A interface atual é básica. Podemos adicionar mais funcionalidades e tornar a experiência do usuário mais agradável.
-* **Atualizações automáticas:** Seria legal que o antivírus se atualizasse automaticamente com novas listas de arquivos maliciosos.
-#
-**Membros:**
+* Não tem organizaçao de playlist.
+* Busca de musicas e artistas. 
+  
